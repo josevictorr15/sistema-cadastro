@@ -4,11 +4,18 @@ aside.menu-area {
 }
 
 .menu a {
-    display: block;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
     text-decoration: none;
     color: #fff;
     padding: 15px;
     font-weight: 300;
+    height: 60px;
+}
+
+.menu p {
+    margin: 0;
 }
 
 .menu a:hover {

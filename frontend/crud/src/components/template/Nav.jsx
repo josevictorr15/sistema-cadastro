@@ -9,10 +9,12 @@ const Nav = () => {
     <aside className="menu-area">
       <nav className="menu">
         <a href="#">
-          <FaHome/> <h4>Inico</h4>
+          <FaHome/>
+          <p>Inico</p>
         </a>
         <a href="#/users">
-          <FaUsers/> <h4>Usuários</h4>
+          <FaUsers/>
+          <p>Usuários</p>
         </a>
       </nav>
     </aside>

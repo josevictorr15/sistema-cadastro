@@ -7,7 +7,7 @@ const Logo = () => {
     <>
     <aside className='logo'>
         <a href="/" className="logo">
-            <img src={logo} alt="Logo da aplicação" />
+            <img src={logo} alt="Logo da aplicação" style={{width: "130px", height: "130px"}}/>
         </a>
     </aside>
     </>
