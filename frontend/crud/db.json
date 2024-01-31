@@ -2,18 +2,13 @@
   "users": [
     {
       "id": "1",
-      "name": "José Victor",
+      "name": "José Victor Santana",
       "email": "victorsantanaa2011@hotmail.com"
     },
     {
       "id": "2",
       "name": "Paulo Santana",
       "email": "paulosantana@hotmail.com"
-    },
-    {
-      "id": "0d4e",
-      "name": "asdsadasd",
-      "email": "asdasdsasadasd"
     }
   ]
 }
